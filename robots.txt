@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://enxiaowei.github.io/xinwangyeban/sitemap.xml
